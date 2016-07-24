@@ -1,0 +1,181 @@
+solplus_pc_phobos = {
+	entity = "asteroid"
+	entity_scale = 1.5
+	icon_frame = 18
+	
+	spawn_odds = 0
+
+	picture = pc_asteroid
+	
+	extra_orbit_size = 0
+	extra_planet_count = 0
+	
+	chance_of_ring = 0
+	
+	planet_size = 1
+	
+	colonizable = no
+}
+
+solplus_pc_deimos = {
+	entity = "asteroid"
+	entity_scale = 1.5
+	icon_frame = 18
+	
+	spawn_odds = 0
+
+	picture = pc_asteroid
+	
+	extra_orbit_size = 0
+	extra_planet_count = 0
+	
+	chance_of_ring = 0
+	
+	planet_size = 1
+	
+	colonizable = no
+}
+solplus_pc_larissa = {
+	entity = "asteroid"
+	entity_scale = 1.5
+	icon_frame = 18
+	
+	spawn_odds = 0
+
+	picture = pc_asteroid
+	
+	extra_orbit_size = 0
+	extra_planet_count = 0
+	
+	chance_of_ring = 0
+	
+	planet_size = 2
+	
+	colonizable = no
+}
+solplus_pc_nereid = {
+	entity = "asteroid"
+	entity_scale = 1.5
+	icon_frame = 18
+	
+	spawn_odds = 0
+
+	picture = pc_asteroid
+	
+	extra_orbit_size = 0
+	extra_planet_count = 0
+	
+	chance_of_ring = 0
+	
+	planet_size = 3
+	
+	colonizable = no
+}
+solplus_pc_proteus = {
+	entity = "asteroid"
+	entity_scale = 1.5
+	icon_frame = 18
+
+	picture = pc_asteroid
+	
+	spawn_odds = 0
+	
+	extra_orbit_size = 0
+	extra_planet_count = 0
+	
+	chance_of_ring = 0
+	
+	planet_size = 3
+	
+	colonizable = no
+}
+solplus_pc_dysnomia = {
+	entity = "asteroid"
+	entity_scale = 1.5
+	icon_frame = 18
+	
+	spawn_odds = 0
+
+	picture = pc_asteroid
+	
+	extra_orbit_size = 0
+	extra_planet_count = 0
+	
+	chance_of_ring = 0
+	
+	planet_size = 1
+	
+	colonizable = no
+}
+solplus_pc_nix = {
+	entity = "asteroid"
+	entity_scale = 1.5
+	icon_frame = 18
+	
+	spawn_odds = 0
+
+	picture = pc_asteroid
+	
+	extra_orbit_size = 0
+	extra_planet_count = 0
+	
+	chance_of_ring = 0
+	
+	planet_size = 1
+	
+	colonizable = no
+}
+solplus_pc_hydra = {
+	entity = "asteroid"
+	entity_scale = 1.5
+	icon_frame = 18
+	
+	spawn_odds = 0
+
+	picture = pc_asteroid
+	
+	extra_orbit_size = 0
+	extra_planet_count = 0
+	
+	chance_of_ring = 0
+	
+	planet_size = 1
+	
+	colonizable = no
+}
+solplus_pc_styx = {
+	entity = "asteroid"
+	entity_scale = 1.5
+	icon_frame = 18
+	
+	spawn_odds = 0
+
+	picture = pc_asteroid
+	
+	extra_orbit_size = 0
+	extra_planet_count = 0
+	
+	chance_of_ring = 0
+	
+	planet_size = 1
+	
+	colonizable = no
+}
+solplus_pc_kerberous = {
+	entity = "asteroid"
+	entity_scale = 1.5
+	icon_frame = 18
+	
+	spawn_odds = 0
+
+	picture = pc_asteroid
+	
+	extra_orbit_size = 0
+	extra_planet_count = 0
+	
+	chance_of_ring = 0
+	
+	planet_size = 1
+	
+	colonizable = no
+}
